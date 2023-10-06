@@ -1,0 +1,23 @@
+{
+  "name": "live_october_6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "app" : "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WD23-D04/live_october_6.git"
+  },
+  "keywords": [],
+  "author": "albertleipzig <albertclemvill@gmail.com>",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/WD23-D04/live_october_6/issues"
+  },
+  "homepage": "https://github.com/WD23-D04/live_october_6#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
